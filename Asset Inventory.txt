@@ -7,7 +7,7 @@ Laptop 2          Wi-Fi        10.10.10.30   XX:XX:XX:XX:*     "Miles" WiFi Conn
 Phone             Phone Wi-Fi  10.10.10.21   randomized        "Jennifer's" Work Phone on Staff Campus WiFi	    STAFF
 Phone             Phone Wi-Fi  10.10.10.31   randomized        "Miles" Work Phone on Staff Campus WiFi		    STAFF
 Phone             Phone Wi-Fi  10.20.20.31   randomized        "Miles" Personal Phone on Staff Campus WiFi	    GUEST/BYOD
-TV                Wi-Fi        10.30.30.1    XX:XX:XX:XX:*     Break Room TV					        IoT
-Firestick         Wi-Fi        10.30.30.2    XX:XX:XX:XX:*     Break Room Device for Bulletin Updates		     IoT
+TV                Wi-Fi        10.30.30.1    XX:XX:XX:XX:*     Break Room TV					                  IoT
+Firestick         Wi-Fi        10.30.30.2    XX:XX:XX:XX:*     Break Room Device for Bulletin Updates		    IoT
 IoT Display       Wi-Fi        10.30.30.3    XX:XX:XX:XX:*     Google Home Speaker				      IoT
 Printer           Wi-Fi        10.10.10.2    XX:XX:XX:XX:*     Break Room Printer				        STAFF
