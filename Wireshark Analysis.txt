@@ -1,8 +1,8 @@
 TEST:	PROTOCOL:	    QUESTION:						                        EVIDENCE:								                          RESULT:
 
-NET-01	ARP		        Can this endpoint resolve gateway MAC?			    Request/Reply Confirmed 						                      PASS
+NET-01	ARP		        Can this endpoint resolve gateway MAC?			    Request/Reply Confirmed 						                    PASS
 
-NET-02	DHCP		    Is the endpoint's DHCP/DNS assignment the same?		DHCP Release/Refresh Cycle, showed DNS\_IP = DHCP\_ IP			     PASS
+NET-02	DHCP		    Is the endpoint's DHCP/DNS assignment the same?		DHCP Release/Refresh Cycle, showed DNS\_IP = DHCP\_ IP			    PASS
 
 ***NET-03	DNS***		Is there a device accessing a blocked domain?		DNS filter, then dns.qry.name filter, coolmathgames.com accessed	CONFIRMED
 
