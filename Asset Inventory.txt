@@ -1,13 +1,13 @@
-Asset             Connection    IPv4          MAC              Role						                                Status:
-Spectrum          ISP          142.105.x.x   Unknown           ISP						                                Operational
-TP-Link Router    Gateway      192.168.x.x   XX:XX:XX:XX:*     Router/AP					                            Operational
-Workstation       Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Host Server					                            Operational
-Laptop 1          Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     "Jennifer" Wifi Connection			                    Operational
-Laptop 2          Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     "Miles" WiFi Connection				                    Operational
-Phone             Phone Wi-Fi  192.168.x.x   randomized        "Jennifer's" Work Phone on Staff Campus WiFi	            Operational
-Phone             Phone Wi-Fi  192.168.x.x   randomized        "Miles" Work Phone on Staff Campus WiFi		            Needs Verification
-Phone             Phone Wi-Fi  192.168.x.x   randomized        "Miles" Personal Phone on Staff Campus WiFi	            Operational
-TV                Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room TV					                        Operational
-Firestick         Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room Device for Bulletin Updates		            Operational
-IoT Display       Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Google Home Speaker				                        Operational
-Printer           Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room Printer				                        Identified through traffic analysis
+Asset             Connection    IPv4          MAC              Role						Proposed Security Zone:
+Spectrum          ISP          142.105.x.x   Unknown           ISP						N/A
+TP-Link Router    Gateway      10.99.99.1    XX:XX:XX:XX:*     Router/AP					MGMT
+Workstation       Wi-Fi        10.99.99.2    XX:XX:XX:XX:*     Host Server					MGMT
+Laptop 1          Wi-Fi        10.10.10.20   XX:XX:XX:XX:*     "Jennifer" Wifi Connection			STAFF
+Laptop 2          Wi-Fi        10.10.10.30   XX:XX:XX:XX:*     "Miles" WiFi Connection				STAFF
+Phone             Phone Wi-Fi  10.10.10.21   randomized        "Jennifer's" Work Phone on Staff Campus WiFi	STAFF
+Phone             Phone Wi-Fi  10.10.10.31   randomized        "Miles" Work Phone on Staff Campus WiFi		STAFF
+Phone             Phone Wi-Fi  10.20.20.31   randomized        "Miles" Personal Phone on Staff Campus WiFi	GUEST/BYOD
+TV                Wi-Fi        10.30.30.1    XX:XX:XX:XX:*     Break Room TV					IoT
+Firestick         Wi-Fi        10.30.30.2    XX:XX:XX:XX:*     Break Room Device for Bulletin Updates		IoT
+IoT Display       Wi-Fi        10.30.30.3    XX:XX:XX:XX:*     Google Home Speaker				IoT
+Printer           Wi-Fi        10.10.10.2    XX:XX:XX:XX:*     Break Room Printer				STAFF
