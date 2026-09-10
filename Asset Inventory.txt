@@ -1,7 +1,7 @@
 Asset             Connection    IPv4          MAC              Role						                Proposed Security Zone:
-Spectrum          ISP          142.105.x.x   Unknown           ISP						                N/A
-TP-Link Router    Gateway      10.99.99.1    XX:XX:XX:XX:*     Router/AP				          	  MGMT
-Workstation       Wi-Fi        10.99.99.2    XX:XX:XX:XX:*     Host Server					            MGMT
+Spectrum          ISP          142.105.x.x   Unknown           ISP						                        N/A
+TP-Link Router    Gateway      10.99.99.1    XX:XX:XX:XX:*     Router/AP				          	            MGMT
+Workstation       Wi-Fi        10.99.99.2    XX:XX:XX:XX:*     Host Server					                    MGMT
 Laptop 1          Wi-Fi        10.10.10.20   XX:XX:XX:XX:*     "Jennifer" Wifi Connection		        	STAFF
 Laptop 2          Wi-Fi        10.10.10.30   XX:XX:XX:XX:*     "Miles" WiFi Connection			        	STAFF
 Phone             Phone Wi-Fi  10.10.10.21   randomized        "Jennifer's" Work Phone on Staff Campus WiFi	    STAFF
