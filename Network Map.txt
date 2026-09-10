@@ -1,37 +1,37 @@
-                          INTERNET
-                             │
-                             │
-                      ISP Infrastructure
-                             │
-                          DOCSIS
-                             │
+                       INTERNET
+                           │
+                           │
+                  ISP Infrastructure
+                           │
+                        DOCSIS
+                           │
                    ┌───────▼───────┐
-                   │ Cable Modem        │
-                   │                    │
-                   │ CM interface       │
-                   │ MTA interface      │
+                   │ Cable Modem   │
+                   │               │
+                   │ CM interface  │
+                   │ MTA interface │
                    └───────┬───────┘
-                              │ Ethernet
-                              │
-                          WAN │
+                           │ Ethernet
+                           │
+                       WAN │
                     ┌───────▼───────┐
-                    │ TP-Link            │
-                    │ Router / AP        │
-                    │                    │
-                    │ NAT                │
-                    │ DHCP               │
-                    │ Firewall           │
-                    │ Wi-Fi AP           │
+                    │ TP-Link       │
+                    │ Router / AP   │
+                    │               │
+                    │ NAT           │
+                    │ DHCP          │
+                    │ Firewall      │
+                    │ Wi-Fi AP      │
                     └───────┬───────┘
-                              │
-                       192.168.x.0/24
-                         HOME WLAN
-                             │
-           ┌─────────────┼──────────────┐
-              │              │                 │
-            Wi-Fi           Wi-Fi             Wi-Fi
-              │              │                 │
-      ┌─────▼────┐ ┌────▼─────┐  ┌────▼─────┐
-      │ PCs         │ │ Phones      │  │ IoT Devices  │
-      │ .xxx        │ │ .xxx        │  │ .xxx         │
-      └──────────┘ └──────────┘  └──────────┘
+                            │
+                      192.168.x.0/24
+                         IT WLAN
+                            │
+              ┌─────────────┼──────────────┐
+              │             │              │
+            Wi-Fi         Wi-Fi          Wi-Fi
+              │             │              │
+        ┌─────▼────┐   ┌────▼─────┐   ┌────▼─────┐
+        │ PCs      │   │ Phones   │   │ IoT      │
+        │ .xxx     │   │ .xxx     │   │ .xxx     │
+        └──────────┘   └──────────┘   └──────────┘
