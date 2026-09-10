@@ -7,7 +7,7 @@ Laptop 2          Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     "Miles" WiFi Conn
 Phone             Phone Wi-Fi  192.168.x.x   randomized        "Jennifer's" Work Phone on Staff Campus WiFi	            Operational
 Phone             Phone Wi-Fi  192.168.x.x   randomized        "Miles" Work Phone on Staff Campus WiFi		            Needs Verification
 Phone             Phone Wi-Fi  192.168.x.x   randomized        "Miles" Personal Phone on Staff Campus WiFi	            Operational
-TV                Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room TV					                        Operational
-Firestick         Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room Device for Bulletin Updates		      Operational
-IoT Display       Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Google Home Speaker				                    Operational
-Printer           Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room Printer				                      Identified through traffic analysis
+TV                Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room TV					                              Operational
+Firestick         Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room Device for Bulletin Updates		            Operational
+IoT Display       Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Google Home Speaker				                        Operational
+Printer           Wi-Fi        192.168.x.x   XX:XX:XX:XX:*     Break Room Printer				                         Identified through traffic analysis
