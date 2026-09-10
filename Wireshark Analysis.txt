@@ -8,5 +8,5 @@ NET-02	DHCP		    Is the endpoint's DHCP/DNS assignment the same?		DHCP Release/R
 
 ***NET-04	ICMP***		Can files not be moved between departments?		    Pinged Host Server, ICMP packets blocked. FTP packets blocked.		PASS
 
-NET-05	ICMPv6/NDP	     Is an IoT device advertising for connection?		  ICMPv6 filter, after 20 seconds, Google Hub ipv6 advertised.		  CONFIRMED
+NET-05	ICMPv6/NDP	    Is an IoT device advertising for connection?		  ICMPv6 filter, after 20 seconds, Google Hub ipv6 advertised.		  CONFIRMED
 
