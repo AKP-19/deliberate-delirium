@@ -1,4 +1,4 @@
-TEST:	PROTOCOL:	    QUESTION:						                              EVIDENCE:								                                          RESULT:
+TEST:	PROTOCOL:	    QUESTION:						                              EVIDENCE:								                                       RESULT:
 
 NET-01	ARP		      Can this endpoint resolve gateway MAC?			      Request/Reply Confirmed 						                              PASS
 
